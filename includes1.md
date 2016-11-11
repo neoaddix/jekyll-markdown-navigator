@@ -1,6 +1,6 @@
 ---
 title: References in includes
-permalink: includes.html
+permalink: includes1.html
 layout: default
 summary: "This Jekyll example was made to demonstrate and test Vladimir's Markdown Navigator plugin for IntelliJ. We will use out of the box Jekyll functionality for this."
 ---
@@ -36,4 +36,4 @@ the used liquid tag: { % include links.md % }
 
 
 
-{% include links.html %}
+{% include links.md %}

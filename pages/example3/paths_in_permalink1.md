@@ -1,8 +1,8 @@
 ---
-title: The original and published version of our target is in a path
-permalink: /pages/example3/paths_in_permalink.html
-layout: default
-summary: "This Jekyll example was made to demonstrate and test Vladimir's Markdown Navigator plugin for IntelliJ. We will use out of the box Jekyll functionality for this."
+title:      The original and published version of our target is in a path
+permalink:  paths_in_permalink1.html
+layout:     default
+summary:    "This Jekyll example was made to demonstrate and test Vladimir's Markdown Navigator plugin for IntelliJ. We will use out of the box Jekyll functionality for this."
 ---
 
 
@@ -20,4 +20,4 @@ Because the target file is in a path and the links.html contains relative links,
 * [Example 3] - (this page = working)
 
 
-{% include links.html %}
+{% include links.md %}

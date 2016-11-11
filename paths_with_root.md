@@ -25,5 +25,5 @@ Now the link [Example 4] is not working in the Jekyll published site because the
 
 [Example 5] link is working in the published site, but not in the plugin because the file is stored in the pages directory
 
-[Example 4]: /pages/example4/published_in_root.html
+[Example 4]: /pages/example4/published_in_root_no_problem.html
 [Example 5]: published_in_root.html

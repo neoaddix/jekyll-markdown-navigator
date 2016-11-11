@@ -1,6 +1,6 @@
 ---
 title: Index
-permalink: index.html
+permalink: index-test.html
 layout: default
 summary: "This Jekyll example was made to demonstrate and test Vladimir's Markdown Navigator plugin for IntelliJ. We will use out of the box Jekyll functionality for this."
 ---
@@ -14,7 +14,7 @@ addresses in your markdown files to have an .html extension, even though
 your source files are all .md files. A link reference would look like:
 
 ```markdown
-[to the index](index.html)
+[to the index](index-test.html)
 ```
 
 Since the Markdown Navigator plugin looks for markdown files (and not
@@ -49,9 +49,9 @@ Concerning the references on this page:
 -> when using the plugin to create the new-file it would be nice to be able to create the .md version of the file even though the links says html
 ```
 
-[Example 1]: includes.html
+[Example 1]: includes1.html
 [Example 2]: paths_with_root.html
-[Example 3]: pages/example3/paths_in_permalink.html
+[Example 3]: pages/example3/paths_in_permalink1.html
 
 
 
