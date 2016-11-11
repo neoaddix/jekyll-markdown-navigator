@@ -8,8 +8,6 @@ summary:    "This Jekyll example was made to demonstrate and test Vladimir's Mar
 # Welcome to the Ximdoc
 
 
-
-
 ## Markdown Navigator Plugin
 Installing the Markdown Navigator Plugin for IntelliJ makes working on you Jekyll project documentation much easier. You well get great support for working on MD files and refactoring of filenames and references. Check out the [Github pages of the plugin] for more information and [buy the plugin].
 
