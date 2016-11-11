@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ximdoc software documentation
+title: Ximdoc software documentation for Jekyll 
 email: jeko@ximedes.com
 
 description: > # this means to ignore newlines until "baseurl:"
@@ -39,12 +39,13 @@ kramdown:
  syntax_highlighter: rouge
 
 include:
-  - _pages/
+  - pages/
 
 # these are the files and directories that jekyll will exclude from the build
 exclude:
   - .idea/
   - .gitignore
+  - _site
   - nohup.out
   - Gemfile
   - Gemfile.lock

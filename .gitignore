@@ -2,5 +2,4 @@
 .gitignore
 .idea/
 ximdoc.iml
-_config.yml
-_site/
+/_site/
